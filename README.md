@@ -4,7 +4,7 @@ Email me if you have any comments at kartikgiri92@gmail.com.
 
 How To Get Better At Coding :-  
     1. Practice  
-    2. If you are not able to solve the question, see the answer don't waste time .  
+    2. Don't waste time on a single problem, see it's solution.  
     3. Read other people's code.  
     
 Websites for Practice :-  
