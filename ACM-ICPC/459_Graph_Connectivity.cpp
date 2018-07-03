@@ -1,6 +1,3 @@
-//This code did not AC in UVA Compiler. The logic, according to me, is correct.
-// Probably it is failing for some specific test cases.
-// Please do comment or fork if you find the bug.
 //Link for the problem - https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=400
 
 #include<bits/stdc++.h>
