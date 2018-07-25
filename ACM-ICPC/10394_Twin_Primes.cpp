@@ -1,4 +1,4 @@
-Link - https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1335
+//Link - https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1335
 
 #include<bits/stdc++.h>
 using namespace std;
