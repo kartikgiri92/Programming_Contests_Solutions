@@ -1,4 +1,4 @@
-This is a collection of solutions I've written for programming contests.    
+This is a collection of solutions I've written for programming contests.
 
 Email me for queries at kartikgiri92@gmail.com.
 
